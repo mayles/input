@@ -74,7 +74,7 @@
 //#include "input_daemon_server_marshall.h"
 
 #define KEYMAP_CONF_FILE "/config/keyboard.conf"
-#define KEYMAP_LIST_FILE "/usr/share/xenclient/keyboards"
+#define KEYMAP_LIST_FILE "/usr/share/openxt/keyboards"
 #define KEYMAP_LIST_MAX 1024
 
 #include "input.h"
